@@ -1,6 +1,6 @@
 #  Hi, I'm Tasnim
 
-🎓 Fresh Computer Science Graduate & Web Enginnering  
+🎓 Fresh Computer Science & Web Enginnering Graduate  
 💻 Aspiring Full-Stack Developer  
 🌐 Passionate about Web Technologies and Modern Frameworks  
 
