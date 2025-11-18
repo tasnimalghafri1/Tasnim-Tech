@@ -24,8 +24,8 @@ Node.js
 MySQL
 
 ## 📫 Connect With Me
-- **Email:tasnimalghafri1@gmail.com 
-- **LinkedIn: (https://www.linkedin.com/in/tasnim-masoud-23266823b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- Email:tasnimalghafri1@gmail.com 
+- LinkedIn: (https://www.linkedin.com/in/tasnim-masoud-23266823b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 
 Thanks for checking out my profile! Feel free to explore my projects.
